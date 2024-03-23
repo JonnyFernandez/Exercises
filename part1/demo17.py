@@ -61,4 +61,4 @@ while option != '6':
     (4) Listar clientes\n
     (5) Listar clientes preferentes\n
     (6) Terminar\n
-    Elige una opción:''')      
+    Elige una opción:''')
