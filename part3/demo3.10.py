@@ -8,6 +8,7 @@ def decorador(funcion):
     return wrapper
 
 
+
 @decorador
 def suma(x,y):
     print(f"Suma de parametros: {x + y}")
