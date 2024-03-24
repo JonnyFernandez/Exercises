@@ -3,9 +3,9 @@
  
 def Polindromo(word):
     if word == word[::-1]:
-        return f"la palabra {word}, es polimbroma"
+        return f"la palabra {word}, es polindroma"
     else:
-        return f"la palabras {word}, no es pilimdroma"
+        return f"la palabras {word}, no es polindroma"
 
 print(Polindromo("reconocer"))    
  
